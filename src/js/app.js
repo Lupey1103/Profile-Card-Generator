@@ -54,9 +54,11 @@ window.onload = function() {
     // if includeCover is true the algorithm should
     includeCover: true,
     // this is the url of the image that will used as background for the profile cover
-    background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
+    background:
+      "https://assets.newatlas.com/dims4/default/c37a2e8/2147483647/strip/true/crop/3869x2579+66+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8b%2F86%2Fd949af8a467ba86e646595222041%2Fmy21-ducati-monster-plus-ambience-17-uc214578-mid.jpg",
     // this is the url for the profile avatar
-    avatarURL: "https://randomuser.me/api/portraits/women/42.jpg",
+    avatarURL:
+      "https://media-exp1.licdn.com/dms/image/C4E03AQFjB37o5A_Snw/profile-displayphoto-shrink_200_200/0/1638822952258?e=1656547200&v=beta&t=WtyuQFabsrvCcysLtcV36eaNP0N8x3P7S5FQdxWeg0I",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
